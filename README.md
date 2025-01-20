@@ -21,8 +21,4 @@ This Arduino-based project scans a 2D grid to measure temperature and distance u
 2. Upload the code to your Arduino board.
 3. Monitor the output via the serial monitor.
 
-## Schematic
-[Add a schematic diagram or provide a link to it.]
 
-## License
-[Specify your license here, e.g., MIT License.]
